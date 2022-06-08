@@ -1,3 +1,4 @@
+# ECommerceLite_SUNUM
 Merhaba, ECommerceLite Projesini, İstanbul - Kadıköy Network Akademi'de Eğitmenlik yaptığım süreçte 103 sınıfı ve 303 sınıfı için yazdım. Projenin kaynak kodları private olarak githubımdadır.Tüm hakları ben Betül Akşan'a, 103 ve 303 sınıflarımın öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
 ***PROJE HAKKINDA TEKNİK BİLGİLER:***
