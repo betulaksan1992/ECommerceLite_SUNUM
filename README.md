@@ -6,6 +6,7 @@ Merhaba, ECommerceLite Projesini, İstanbul - Kadıköy Network Akademi'de Eğit
 - Proje Entity Framework Code-First yaklaşımıyla yazılmıştır.
 - Projenin rol ve kullanıcı yönetimi Aspnet.Identity ile yazılmıştır.
 - Aktivasyon, şifremi unuttum gibi işlemlerde email gönderilmektedir.
+- Projenin FrontEnd işlemlerinde ELECTRO isimli hazır tema kullandık.
 - Projeyi 103 sınıfıyla 4 katman (Entities,DAL,BLL,,UI) olarak yazdık.
 - Projeyi 303 sınıfıyla 5 Katman (Utilities,Entities,DAL,BLL,UI) olarak yazdık.
 - Projede Repository Pattern Design kullandık.
